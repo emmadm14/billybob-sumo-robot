@@ -236,3 +236,49 @@ billybob-sumo-robot/
     ├── Motors.h
     ├── IR_Sensors.cpp
     └── IR_Sensors.h
+
+```
+
+---
+
+## Technologies
+
+- C++
+- Arduino
+- ESP32
+- FreeRTOS
+- VL53L0X
+- Infrared Sensors
+- Embedded Systems
+- Autonomous Robotics
+- Sensor Integration
+- 3D Printing
+
+---
+
+## Skills Developed
+
+This project allowed me to develop and apply skills in:
+
+- Embedded C++ programming
+- ESP32 development
+- FreeRTOS multitasking
+- Autonomous robot behaviour
+- Sensor integration
+- Motor control
+- Signal filtering
+- Hardware/software integration
+- Debugging and troubleshooting
+- Experimental testing
+- Problem-solving
+- Rapid prototyping
+- 3D printing
+
+---
+
+## Author
+
+**E. Da Mota**
+
+Individual engineering project developed at  
+**Polytech Nice-Sophia – Université Côte d’Azur**
